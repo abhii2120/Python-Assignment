@@ -1,60 +1,81 @@
+#  Python Libraries Practice Project
 
-#  Python Data Analysis Assignment
-
-##  Student Details
-- Name: Abhilasha Pareek  
-- Course: Data Analytics  
-- Subject: Data Analytics / Python  
+ This project focuses on understanding and implementing commonly used Python libraries for data analysis and data handling.
 
 ---
 
-##  Project Description
-This project contains a Python-based data analysis assignment using **Pandas** and **NumPy**.  
-The dataset is analyzed to perform various operations such as handling missing values, calculating revenue, grouping data, and statistical analysis.
+##  Overview
+
+This project demonstrates the practical usage of Python libraries in a structured and beginner-friendly manner. It includes implementation, examples, and explanations of key concepts required for data analysis.
+
+The objective is to build a strong foundation in Python libraries that are widely used in real-world data science projects.
 
 ---
 
-##  Tools & Libraries Used
-- Python  
-- Pandas  
-- NumPy  
-- Google Colab  
+## Project Structure
+
+| File Name | Description |
+|----------|------------|
+| `Libaries file.ipynb` | Jupyter Notebook containing implementation and examples |
+| `Libaries pdf.pdf` | Exported PDF version of the notebook |
+| `Question Paper.pdf` | Assignment questions |
+| `retail_dataset.csv` | Dataset used for practice |
+| `README.md` | Project documentation |
 
 ---
 
-##  Files Included
-- 📄 `Code file.ipynb` → Complete Python code  
-- 📄 `Code pdf.pdf` → Assignment in PDF format  
-- 📄 `Question Paper.pdf` → Given assignment questions  
-- 📄 `readme.md` → Project description  
+##  Objectives
+
+- Understand core Python libraries  
+- Learn practical implementation of libraries  
+- Perform basic data manipulation  
+- Work with datasets using Python  
+- Strengthen programming and analytical skills  
 
 ---
 
-##  Tasks Performed
-1. Loaded dataset and checked structure  
-2. Identified and handled missing values  
-3. Removed unnecessary data  
-4. Created a new column **Revenue**  
-5. Calculated total revenue using NumPy  
-6. Performed category-wise and region-wise analysis  
-7. Identified top and bottom categories  
-8. Monthly revenue analysis  
-9. Calculated mean, median, and standard deviation  
+##  Libraries Used
+
+- **Pandas** → Data manipulation and analysis  
+- **NumPy** → Numerical operations  
+- *(Add more if used in your notebook)*  
 
 ---
 
-##  Output
-- Cleaned dataset  
-- Revenue calculations  
-- Grouped analysis results  
-- Statistical insights  
+##  Key Concepts Covered
+
+- Data loading and handling  
+- DataFrame operations  
+- Basic data analysis techniques  
+- Working with CSV datasets  
+- Applying functions on data  
 
 ---
 
-##  Conclusion
-This assignment demonstrates the use of Python libraries like Pandas and NumPy for real-world data analysis tasks. It helps in understanding data cleaning, transformation, and analysis techniques.
+##  Learning Outcomes
+
+- Improved understanding of Python libraries  
+- Ability to work with real datasets  
+- Hands-on experience with data analysis  
+- Better problem-solving skills  
 
 ---
 
-## ⭐ Author
+## How to Run
+
+1. Open the notebook in Google Colab  
+2. Upload the dataset file  
+3. Run all cells step-by-step  
+4. Observe outputs and results  
+
+---
+
+## Author
+
 **Abhilasha Pareek**
+
+---
+
+##  Note
+
+This project is created for academic purposes and serves as a foundational step toward advanced data analysis and data science.
