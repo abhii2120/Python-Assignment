@@ -90,7 +90,7 @@ The following visualizations were used:
 - `Data_cleaning_Python.ipynb` → Main notebook
 - `healthcare_data_cleaning_dataset.csv` → Dataset
 - `Question Paper.pdf` → Assignment questions
-- Data cleaning python.ipynb pdf- ipynb pdf
+- 'Data cleaning python.ipynb pdf'- ipynb pdf
 - `README.md` → Project documentation
 
 ---
@@ -105,5 +105,5 @@ Data cleaning techniques significantly improved the quality, consistency, and re
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 This project is part of a Data Cleaning assignment for learning and academic purposes.
