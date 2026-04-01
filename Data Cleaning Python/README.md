@@ -90,7 +90,7 @@ The following visualizations were used:
 - `Data_cleaning_Python.ipynb` → Main notebook
 - `healthcare_data_cleaning_dataset.csv` → Dataset
 - `Question Paper.pdf` → Assignment questions
-- 'Data cleaning python.ipynb pdf'- ipynb pdf
+- `Data cleaning Python.ipynb pdf.pdf` → Final PDF report
 - `README.md` → Project documentation
 
 ---
