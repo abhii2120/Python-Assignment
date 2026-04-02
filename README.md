@@ -7,7 +7,7 @@ The focus of this repository is on Python programming, data cleaning, data trans
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 This repository includes the following folders:
 
